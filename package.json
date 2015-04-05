@@ -1,0 +1,20 @@
+{
+  "name": "abb-reset-css",
+  "version": "0.0.0",
+  "description": "Personal compilation of CSS reset rules",
+  "license": "MIT",
+  "main": "reset.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adambbecker/abb-reset-css.git"
+  },
+  "author": {
+    "name": "Adam Becker",
+    "email": "adambbecker@gmail.com",
+    "url": "https://github.com/adambbecker"
+  },
+  "keywords": [
+    "CSS",
+    "Reset"
+  ]
+}
