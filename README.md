@@ -1,2 +1,3 @@
-# abb-reset-css
-Personal compilation of favorite CSS reset rules
+# Adam's Reset CSS
+
+Personal compilation of CSS reset rules.
