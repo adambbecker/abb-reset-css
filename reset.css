@@ -172,6 +172,7 @@ button,
 input,
 select,
 textarea {
+	background: none;
 	outline: none;
 }
 
