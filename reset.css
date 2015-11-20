@@ -35,7 +35,7 @@ html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, a, blockq
 	border: 0;
 }
 
-article, aside, figure, footer, header, nav, section, details, summary {
+article, aside, details, figure, footer, header, main, nav, section, summary {
 	display: block;
 }
 
