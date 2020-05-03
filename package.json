@@ -1,6 +1,6 @@
 {
   "name": "abb-reset-css",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Personal compilation of CSS reset rules",
   "license": "MIT",
   "main": "reset.css",
